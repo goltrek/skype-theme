@@ -1,4 +1,4 @@
-# skype-theme
+# Skype-theme
 Tema na cor cinza com borda e botões de janelas Numix Grey.
 # Como instalar
 Ao baixar o arquivo .zip, extrair a pasta skype-theme-master para sua /home. Dentro dessa pasta tem o arquivo Skype.zip, extrair a pasta Skype para /home/.themes. Se não houver a pasta .themes, é preciso criar uma.
